@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/poggioverde.lwc-l9dq090g",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve gd9C42T3z3M1AXtVjfh0 --open"
+  }
+}
